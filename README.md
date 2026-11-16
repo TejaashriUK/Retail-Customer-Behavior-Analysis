@@ -117,8 +117,6 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary jupyter
 
 This project was developed as a learning and portfolio exercise, adapting concepts and the project structure from the retail customer behavior analysis tutorial by **Amlan Mohanty**.
 
-Original learning resource: [Amlan Mohanty's YouTube Tutorial](https://www.youtube.com/watch?v=5PrZvPeUw60)
-
 ## Author
 
 **Tejaashri K**
