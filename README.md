@@ -8,6 +8,16 @@ The objective of this project is to analyze retail customer data and transform r
 
 The project covers data preparation, exploratory data analysis, SQL-based business analysis, and interactive dashboard development.
 
+## Power BI Dashboard Preview
+
+### Page 1 – Retail Customer Overview
+
+![Retail Customer Dashboard Overview](dashboard-overview.png)
+
+### Page 2 – Customer Behavior & Purchase Insights
+
+![Customer Behavior and Purchase Insights](customer-insights.png)
+
 ## Technologies Used
 
 - **Python:** Data cleaning, preprocessing, and exploratory data analysis
